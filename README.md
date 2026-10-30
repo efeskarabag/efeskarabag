@@ -38,6 +38,7 @@ I develop production-ready digital products that bridge the gap between physical
 | :--- | :--- | :--- | :---: |
 | **[Yapay Kâtip](https://www.yapaykatip.com/)** | Zero-Retention Customs Vision AI SaaS | `Next.js 15` `React 19` `Gemini Vision AI` `Supabase` | [Visit Platform ↗](https://www.yapaykatip.com/) |
 | **[Prepress Core](https://www.prepresscore.com/)** | Industrial Illustrator CEP Automation & Simulator | `React` `Adobe CEP` `ExtendScript` `AES-256` `HWID` | [Explore Platform ↗](https://www.prepresscore.com/) |
+| **[P-Track](https://ptrack-demo.vercel.app/)** | Industrial Manufacturing & Order Workflow SaaS | `React` `Node.js` `Express` `MongoDB` `TailwindCSS` | [Explore Demo ↗](https://ptrack-demo.vercel.app/) |
 | **[Sinefes](https://www.sinefes.com/)** | Mobile-First Cinema & TV Tracking PWA | `Next.js 16` `React 19` `TailwindCSS v4` `Framer Motion` | [Launch App ↗](https://www.sinefes.com/) |
 | **[Türnak Kargo](https://turnak.vercel.app/)** | Freight Logistics & GPS Fleet Interface | `Next.js` `TypeScript` `Telematics GPS` `TailwindCSS` | [Live Site ↗](https://turnak.vercel.app/) |
 | **[Neyine](https://neyine.vercel.app/)** | Realtime Social Predictions & Challenges | `Next.js` `Supabase Realtime` `TypeScript` `TailwindCSS` | [Live Arena ↗](https://neyine.vercel.app/) |
@@ -66,6 +67,7 @@ I develop production-ready digital products that bridge the gap between physical
   <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
 </p>
 
