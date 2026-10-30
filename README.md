@@ -1,82 +1,87 @@
 <div align="center">
 
-  <a href="https://www.efeskarabag.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Efes+Karaba%C4%9F+%F0%9F%91%8B;Full-Stack+Developer+%26+Vibecoder;Building+AI+SaaS+%26+Industrial+Automation" alt="Efes Karabağ - Typing SVG" />
-  </a>
+  <h1>Efes Karabağ</h1>
 
-  <p align="center">
-    <strong>Bridging the gap between real-world operational workflows, modern AI-driven SaaS, and industrial automation.</strong>
+  <p>
+    <strong>Full-Stack Developer & Vibecoder</strong><br />
+    <em>Architecting resilient AI SaaS platforms, modern web applications & industrial automation solutions.</em>
   </p>
 
-  <p align="center">
-    <a href="https://www.efeskarabag.com"><img src="https://img.shields.io/badge/Portfolio-efeskarabag.com-00DC82?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-    <a href="https://www.linkedin.com/in/efeskarabag/"><img src="https://img.shields.io/badge/LinkedIn-Efes_Karabağ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:efeskarabag@gmail.com"><img src="https://img.shields.io/badge/Email-efeskarabag%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/Location-İstanbul%2C_TR-333333?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <p>
+    <a href="https://www.efeskarabag.com"><img src="https://img.shields.io/badge/Portfolio-efeskarabag.com-0d1117?style=flat-square&logo=vercel&logoColor=white&labelColor=161b22" alt="Portfolio" /></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/efeskarabag/"><img src="https://img.shields.io/badge/LinkedIn-Efes_Karabağ-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22" alt="LinkedIn" /></a>
+    &nbsp;
+    <a href="mailto:efeskarabag@gmail.com"><img src="https://img.shields.io/badge/Email-efeskarabag%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22" alt="Email" /></a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Location-İstanbul%2C_TR-0d1117?style=flat-square&logo=googlemaps&logoColor=white&labelColor=161b22" alt="Location" />
   </p>
 
 </div>
 
 ---
 
-### ⚡ About Me
+### ⚡ Engineering Overview
 
-I am a **Full-Stack Developer & Vibecoder** focused on architecting resilient, production-ready software. My background blends deep technical expertise in modern web frameworks with hands-on industrial engineering and automation.
+I develop production-ready digital products that bridge the gap between physical production workflows and modern cloud architecture.
 
-* 🧠 **AI & SaaS Architect:** Designed **Yapay Kâtip**, a zero-retention smart customs platform powered by Google Gemini Vision AI and Supabase.
-* ⚙️ **Industrial Software:** Built **Prepress Core**, an enterprise Adobe Illustrator ecosystem distributing remote AES-256 encrypted ExtendScript modules with hardware-locked (HWID) licensing.
-* 📱 **Mobile & PWA Experience:** Engineered **Sinefes**, a mobile-first movie/TV tracking PWA running on Next.js 16 and React 19 with floating island navigation and live TMDB sync.
-* 🛠️ **Practical Mindset:** I don't build software around theoretical assumptions. I analyze real-world production pain points and ship agile, bulletproof digital tools.
+* **🧠 AI & SaaS Architect:** Designed **Yapay Kâtip**, a zero-retention customs automation platform processing commercial trade documents via Google Gemini Vision AI.
+* **⚙️ Industrial Prepress Automation:** Engineered **Prepress Core**, distributing remote AES-256 encrypted ExtendScript modules with hardware-locked (HWID) licensing for Adobe Illustrator CC.
+* **📱 Mobile-First PWA:** Built **Sinefes**, an entertainment tracker running on Next.js 16 and React 19 with floating navigation and live TMDB integration.
+* **🛠️ Pragmatic Delivery:** Focused on high-availability, clean codebases, and solving real-world operational bottlenecks.
 
 ---
 
-### 🚀 Featured Systems & Live Demos
+### 🚀 Selected Works & Live Systems
 
-| Project | Domain / Type | Stack Highlights | Live Showcase |
+| System | Architecture & Focus | Core Stack | Live Preview |
 | :--- | :--- | :--- | :---: |
-| **[Yapay Kâtip](https://www.yapaykatip.com/)** | AI Customs SaaS | `Next.js 15` `React 19` `Gemini Vision AI` `Supabase` `SheetJS` | [Live Site ↗](https://www.yapaykatip.com/) |
-| **[Prepress Core](https://www.prepresscore.com/)** | Industrial Automation | `React` `Adobe CEP` `ExtendScript` `AES-256` `HWID` | [Interactive Demo ↗](https://www.prepresscore.com/) |
-| **[Sinefes](https://www.sinefes.com/)** | Entertainment PWA | `Next.js 16` `React 19` `TailwindCSS v4` `Framer Motion` `TMDB API` | [Launch App ↗](https://www.sinefes.com/) |
-| **[Türnak Kargo](https://turnak.vercel.app/)** | Logistics & Fleet Web | `Next.js` `TypeScript` `Telematics GPS` `TailwindCSS` | [Live Site ↗](https://turnak.vercel.app/) |
-| **[Neyine](https://neyine.vercel.app/)** | Social Predictions Arena | `Next.js` `Supabase Realtime` `TypeScript` `TailwindCSS` | [Live Site ↗](https://neyine.vercel.app/) |
-| **[Yılmaz Nakliyat](https://yilmaz-nakliyat.vercel.app/)** | Moving Logistics & Quote | `Next.js` `Framer Motion` `Interactive Calculator` `TypeScript` | [Live Site ↗](https://yilmaz-nakliyat.vercel.app/) |
-| **[efeskarabag.com](https://www.efeskarabag.com/)** | Personal Portfolio | `React` `Vite` `Supabase` `Netlify Forms` `TailwindCSS` | [Visit ↗](https://www.efeskarabag.com/) |
+| **[Yapay Kâtip](https://www.yapaykatip.com/)** | Zero-Retention Customs Vision AI SaaS | `Next.js 15` `React 19` `Gemini Vision AI` `Supabase` | [Visit Platform ↗](https://www.yapaykatip.com/) |
+| **[Prepress Core](https://www.prepresscore.com/)** | Industrial Illustrator CEP Automation & Simulator | `React` `Adobe CEP` `ExtendScript` `AES-256` `HWID` | [Explore Platform ↗](https://www.prepresscore.com/) |
+| **[Sinefes](https://www.sinefes.com/)** | Mobile-First Cinema & TV Tracking PWA | `Next.js 16` `React 19` `TailwindCSS v4` `Framer Motion` | [Launch App ↗](https://www.sinefes.com/) |
+| **[Türnak Kargo](https://turnak.vercel.app/)** | Freight Logistics & GPS Fleet Interface | `Next.js` `TypeScript` `Telematics GPS` `TailwindCSS` | [Live Site ↗](https://turnak.vercel.app/) |
+| **[Neyine](https://neyine.vercel.app/)** | Realtime Social Predictions & Challenges | `Next.js` `Supabase Realtime` `TypeScript` `TailwindCSS` | [Live Arena ↗](https://neyine.vercel.app/) |
+| **[Yılmaz Nakliyat](https://yilmaz-nakliyat.vercel.app/)** | Modern Moving Portal & Quotation Engine | `Next.js` `Framer Motion` `Interactive Calculator` | [Live Site ↗](https://yilmaz-nakliyat.vercel.app/) |
+| **[efeskarabag.com](https://www.efeskarabag.com/)** | Interactive Developer Portfolio | `React` `Vite` `Supabase` `Dark Aesthetic` | [Open Site ↗](https://www.efeskarabag.com/) |
 
 ---
 
-### 💻 Technical Arsenal
+### 🛠️ Technical Stack & Tooling
 
-<div align="center">
+<div align="left">
 
-#### Modern Web & SaaS
+**Frontend Architecture**  
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" alt="Frontend Stack" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_19-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TailwindCSS_v4-000000?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
-#### Backend, AI & Realtime
+**Backend, Cloud & Artificial Intelligence**  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb,postman" alt="Backend Stack" />
+  <img src="https://img.shields.io/badge/Google_Gemini_AI-000000?style=flat-square&logo=google&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
 </p>
 
-#### Tooling & Deployment
+**Industrial Automation & Specialized Systems**  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare,vite" alt="DevOps Stack" />
+  <img src="https://img.shields.io/badge/Adobe_CEP-000000?style=flat-square&logo=adobe&logoColor=FF0000" alt="Adobe CEP" />
+  <img src="https://img.shields.io/badge/ExtendScript_JSX-000000?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" alt="ExtendScript" />
+  <img src="https://img.shields.io/badge/AES--256_Encryption-000000?style=flat-square&logo=lock&logoColor=white" alt="AES-256" />
+  <img src="https://img.shields.io/badge/HWID_Licensing-000000?style=flat-square&logo=auth0&logoColor=white" alt="HWID" />
+  <img src="https://img.shields.io/badge/PWA_Architecture-000000?style=flat-square&logo=pwa&logoColor=5A0FC8" alt="PWA" />
 </p>
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efeskarabag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Efes's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeskarabag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <sub>Built with precision by <strong>Efes Karabağ</strong> • Open to high-impact collaborations and enterprise tooling</sub>
+  <sub>© Efes Karabağ • Built with focus, discipline & industrial precision</sub>
 </div>
